@@ -52,15 +52,19 @@
         bottom: 0;
     }
 
-    25% {
+    20% {
         bottom: 125px;
     }
 
-    50% {
+    40% {
         bottom: 250px;
     }
 
-    75% {
+    60% {
+        bottom: 200px;
+    {
+        
+    80% {
         bottom: 125px;
    }
     100% {
